@@ -12,11 +12,11 @@ PrinterSettings
 
 ###For Slic3r
 ######Windows
-1. Under the start menu search, type %appdata% and hit enter
-2. Browse to _Slic3r_
-3. Copy the files inside to their respective folder
-4. Open Slic3r
-5. Under File>Preferences change Mode to Expert
+1. Open Slic3r
+2. Under File, click "Load Config Bundle "
+3. Browse to wherever this file is located
+4. Choose Slic3r_config_bundle.ini
+5. In Slic3r, Under File>Preferences change mode to Expert
 6. Restart Slic3r
 7. Change the filament diameter to the correct size under _Filament Settings_
 
