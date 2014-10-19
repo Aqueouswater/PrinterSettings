@@ -1,14 +1,9 @@
 PrinterSettings
 ===============
-###For MatterControl
-1. Open Up MatterControl
-2. Go to _Advanced Settings_
-3. go to _Slice Settings_
-4. Under _Options_, click _Import_
-5. Select _MatterControlSettings.ini_
-6. Change the filament diameter to the correct size under _Filament Settings_
-7. ??????
-8. Profit!
+###For Kisslicer
+1. launch Kisslicer from github folder
+2. Go through each tab and select Plastibot
+3. Change the filament filament to the correct size under Materials
 
 ###For Slic3r
 ######Windows
